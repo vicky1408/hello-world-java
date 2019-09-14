@@ -33,7 +33,7 @@
  * The HelloWorldApp class implements an application that simply prints "Hello World" to standard output.
  */
 public class HelloWorld {
-  public static void main(String[]) arg {
+  public static void main(String[] arg) {
     System.out.println("Hello Vignesh from Github");
   }
 }
